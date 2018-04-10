@@ -3,4 +3,14 @@
     <string name="title_home">Home</string>
     <string name="title_news">news</string>
     <string name="title_person">me</string>
+    <string name="button_search_label">加入</string>
+    <string name="stock_sh_name">上证指数</string>
+    <string name="stock_sz_name">深证成指</string>
+    <string name="stock_chuang_name">创业板指</string>
+    <string name="stock_name_title">名称</string>
+    <string name="stock_now_title">最新</string>
+    <string name="stock_increase_percent_title">涨幅</string>
+    <string name="stock_increase_title">涨跌</string>
+    <string name="stock_buy">买</string>
+    <string name="stock_sell">卖</string>
 </resources>
